@@ -1,7 +1,7 @@
 # android-kotlin-timepickerdialog
 Android Kotlin TimePickerDialog
 
-[![Android Kotlin TimePickerDialog](https://i.imgur.com/3Leq1JB.png)](https://youtu.be/43bkWcEn_gg)
+![image alt text](https://i.imgur.com/WJWfzQG.png) [![Android Kotlin TimePickerDialog](https://i.imgur.com/3Leq1JB.png)](https://youtu.be/43bkWcEn_gg)
 
 ```kotlin
 // store selected time
